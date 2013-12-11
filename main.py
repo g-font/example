@@ -1,3 +1,3 @@
 print 'first file on the repo'
 print ';)'
-print 'new line'
+print 'this is so cool'
